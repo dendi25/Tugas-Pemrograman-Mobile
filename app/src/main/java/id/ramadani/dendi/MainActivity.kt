@@ -38,4 +38,3 @@ import retrofit2.Response
 
     }
 }
- //menampilkan data json ke layout
