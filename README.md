@@ -1,2 +1,2 @@
-# Tugas-Pemrograman-Mobile
+# Pemrograman-Mobile
 Tugas Akhir Pemrograman Mobile
